@@ -3471,6 +3471,10 @@ ul a {
   margin-right: 80%;
 }
 
+.navmenu-underline{
+  width: 300%;
+}
+
 ul li:hover {
   transform: scale(1.1);
   transition: 0.3s;
