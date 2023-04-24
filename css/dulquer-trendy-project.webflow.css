@@ -3459,10 +3459,16 @@ ul a {
   color: white;
 }
 
-ul li {
+.navbar-li{
   padding: 5px;
   margin-left: 40px;
-  
+}
+
+.navmenu-li{
+  padding: 5px;
+  margin-left: 40px;
+  margin-top: 25px;
+  margin-right: 80%;
 }
 
 ul li:hover {
@@ -3530,11 +3536,12 @@ ul li:hover {
 .mobile-menu {
   display: none;
   position: absolute;
-  top: 0px;
-  left: 25%;
-  height: 7rem;
-  width: 100%;
+  top: 80px;
+  left: 41%;
+  height: 1000px;
+  width: 60%;
   margin: 0;
+  background-color: #081b27;
   
 }
 
